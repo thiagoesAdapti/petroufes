@@ -4,6 +4,7 @@
 Site desenvolvido para o 14° Petroufes, um evento realizado pelo Capítulo Estudantil SPE Ufes, que busca integrar a comunidade acadêmica e profissional da indústria de petróleo. Este foi meu primeiro projeto profissional, e sei que tem muito a melhorar
 
 ## Demonstração
+Confira o vídeo de apresentação do site:
 [![Assista ao vídeo](./img/print.png)](https://youtu.be/m_YgGi1Ixao)
 
 ## Funcionalidades
